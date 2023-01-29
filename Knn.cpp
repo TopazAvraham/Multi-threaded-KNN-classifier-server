@@ -1,6 +1,3 @@
-//Topaz Avraham 206842627
-//Yuval Korenfeld 207801887
-
 # include "Knn.h"
 # include <iostream>
 #include <string.h>
