@@ -1,5 +1,4 @@
-//Topaz Avraham 206842627
-//Yuval Korenfeld 207801887
+
 
 #include <cstring>
 #include "Command.h"
