@@ -1,6 +1,3 @@
-//Topaz Avraham 206842627
-//Yuval Korenfeld 207801887
-
 #include <iostream>
 #include <sys/socket.h>
 #include <stdio.h>
